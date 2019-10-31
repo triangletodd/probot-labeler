@@ -2,6 +2,8 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that Automatically labels new issues and PR&#x27;s
 
+![](https://user-images.githubusercontent.com/578468/67922992-c58a3480-fb82-11e9-8eb7-2e3b142769b0.png)
+
 ## Setup
 
 ```sh
