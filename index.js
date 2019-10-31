@@ -16,4 +16,3 @@ module.exports = app => {
 
   app.on('*', logEvent)
 }
-
